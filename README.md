@@ -17,3 +17,5 @@ All work was done on google colab notebook, please prefer the notebook version.
 the two problems for this assigment
 
 3. Run the code segments sequentially for each problem to reproduce the results and visualizations.
+
+Link to notebook repo: https://github.com/leewaygroups/GT_ML_2020.git 
